@@ -5,7 +5,7 @@
     <link>https://abilityofwillity.github.io/Value-Sniper-Podcast/feed.xml</link>
     <description>Insights on meme stocks, short interest, and retail-driven rallies.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jun 2025 01:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 01:58:35 GMT</lastBuildDate>
     <managingEditor>The Value Sniper &lt;valuesniperpodcast@gmail.com&gt;</managingEditor>
     <itunes:author>The Value Sniper</itunes:author>
     <itunes:owner>
@@ -16,10 +16,20 @@
     <itunes:category text="Business"/>
     <itunes:explicit>No</itunes:explicit>
     <item>
+      <title>Episode 1</title>
+      <enclosure url="https://abilityofwillity.github.io/Value-Sniper-Podcast/audio/episode_1.mp3" type="audio/mpeg"/>
+      <guid>https://abilityofwillity.github.io/Value-Sniper-Podcast/audio/episode_1.mp3</guid>
+      <pubDate>Sat, 14 Jun 2025 01:58:35 GMT</pubDate>
+      <description>Listen to Episode 1</description>
+      <itunes:author>The Value Sniper</itunes:author>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
       <title>Final Episode 1</title>
       <enclosure url="https://abilityofwillity.github.io/Value-Sniper-Podcast/audio/final_episode_1.mp3" type="audio/mpeg"/>
       <guid>https://abilityofwillity.github.io/Value-Sniper-Podcast/audio/final_episode_1.mp3</guid>
-      <pubDate>Sat, 14 Jun 2025 01:06:51 GMT</pubDate>
+      <pubDate>Sat, 14 Jun 2025 01:58:35 GMT</pubDate>
       <description>Listen to Final Episode 1</description>
       <itunes:author>The Value Sniper</itunes:author>
       <itunes:duration>10:00</itunes:duration>
@@ -29,7 +39,7 @@
       <title>Tts Episode 1</title>
       <enclosure url="https://abilityofwillity.github.io/Value-Sniper-Podcast/audio/tts_episode_1.mp3" type="audio/mpeg"/>
       <guid>https://abilityofwillity.github.io/Value-Sniper-Podcast/audio/tts_episode_1.mp3</guid>
-      <pubDate>Sat, 14 Jun 2025 01:06:51 GMT</pubDate>
+      <pubDate>Sat, 14 Jun 2025 01:58:35 GMT</pubDate>
       <description>Listen to Tts Episode 1</description>
       <itunes:author>The Value Sniper</itunes:author>
       <itunes:duration>10:00</itunes:duration>
